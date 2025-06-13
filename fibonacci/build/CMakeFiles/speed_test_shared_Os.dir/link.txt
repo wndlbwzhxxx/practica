@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/speed_test_shared_Os.dir/test/speed_test.c.o -o speed_test_shared_Os  -Wl,-rpath,/home/kostina/fibonacci/build libfibonacci.so 
