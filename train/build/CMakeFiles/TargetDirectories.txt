@@ -1,0 +1,3 @@
+/home/kostina/train/build/CMakeFiles/train_db.dir
+/home/kostina/train/build/CMakeFiles/edit_cache.dir
+/home/kostina/train/build/CMakeFiles/rebuild_cache.dir

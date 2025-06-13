@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/speed_test_static_O2.dir/test/speed_test.c.o -o speed_test_static_O2  libfibonacci.a 

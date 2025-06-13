@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libfibonacci.so -o libfibonacci.so CMakeFiles/fibonacci_shared.dir/src/fibonacci.c.o CMakeFiles/fibonacci_shared.dir/src/fibonacci_recursive.c.o 
